@@ -1,0 +1,20 @@
+{
+    "class_display_board": "Class Performance Board",
+    "file": "File",
+    "save": "Save",
+    "save_as": "Save As",
+    "open": "Open",
+    "preferences": "Preferences",
+    "fullscreen": "Fullscreen",
+    "exit": "Exit",
+    "language": "Language",
+    "date_format": "Date Format",
+    "time_format": "Time Format",
+    "save_success": "Data saved successfully!",
+    "save_error": "Error saving data: ",
+    "load_success": "Data loaded successfully!",
+    "load_error": "Error loading data: ",
+    "save_changes": "Save Changes",
+    "save_before_exit": "Save changes before exiting?",
+    "save_before_load": "Save current changes?"
+}

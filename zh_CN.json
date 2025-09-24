@@ -1,0 +1,20 @@
+{
+    "class_display_board": "班级实时表现公示栏",
+    "file": "文件",
+    "save": "保存",
+    "save_as": "另存为",
+    "open": "打开",
+    "preferences": "首选项",
+    "fullscreen": "全屏",
+    "exit": "退出",
+    "language": "语言",
+    "date_format": "日期格式",
+    "time_format": "时间格式",
+    "save_success": "数据已成功保存！",
+    "save_error": "保存数据时出错: ",
+    "load_success": "数据已成功加载！",
+    "load_error": "加载数据时出错: ",
+    "save_changes": "保存更改",
+    "save_before_exit": "是否保存更改后再退出？",
+    "save_before_load": "是否保存当前更改？"
+}

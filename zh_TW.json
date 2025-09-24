@@ -1,0 +1,20 @@
+{
+    "class_display_board": "班級實時表現公示欄",
+    "file": "文件",
+    "save": "保存",
+    "save_as": "另存為",
+    "open": "打開",
+    "preferences": "首選項",
+    "fullscreen": "全螢幕",
+    "exit": "退出",
+    "language": "語言",
+    "date_format": "日期格式",
+    "time_format": "時間格式",
+    "save_success": "資料已成功保存！",
+    "save_error": "保存資料時出錯: ",
+    "load_success": "資料已成功載入！",
+    "load_error": "載入資料時出錯: ",
+    "save_changes": "保存更改",
+    "save_before_exit": "是否保存更改後再退出？",
+    "save_before_load": "是否保存當前更改？"
+}
